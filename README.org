@@ -1,0 +1,10 @@
+* cl-just-getopt-parser
+
+Getopt-like command-line parser for the Common Lisp language
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tlikonen/cl-just-getopt-parser.git   |
+| commit  | 1525fe4  |
+| systems | cl-just-getopt-parser |
+|---------+-------------------------------------------|
+
